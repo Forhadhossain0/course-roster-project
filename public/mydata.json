@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/pJv3rMH/Rectangle-2.png",
+      "description": "Learn the fundamentals of Python programming in this comprehensive tutorial.",
+      "title": "Python Programming Basics",
+      "price": 3323,
+      "credit": 2
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/H2gLvHd/Rectangle-2-1.png",
+      "description": "Explore the world of web development with HTML, CSS, and JavaScript.",
+      "title": "Web Development 101",
+      "price": 675,
+      "credit": 3
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/tX8pgpz/Rectangle-2-2.png",
+      "description": "Master object-oriented programming concepts in Java.",
+      "title": "Java OOP Principles",
+      "price": 4334,
+      "credit": 1
+    },
+    {
+      "id": 4,
+      "cover": " https://i.ibb.co/XtJZ5h6/Rectangle-2-3.png",
+      "description": "A guide to building responsive websites using Bootstrap 5.",
+      "title": "Responsive Web Design with Bootstrap 5",
+      "price": 45434,
+      "credit": 2
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/zH2nZ8r/Rectangle-3-1.png",
+      "description": "Explore data analysis with Python and pandas library.",
+      "title": "Data Analysis with Pandas",
+      "price": 5543,
+      "credit": 2
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/XtJZ5h6/Rectangle-2-3.png",
+      "description": "Get started with mobile app development using React Native.",
+      "title": "Introduction to React Native",
+      "price": 8764,
+      "credit": 2
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/1Jf9R6s/Rectangle-3.png",
+      "description": "Learn data structures and algorithms in C++.",
+      "title": "C++ Data Structures and Algorithms",
+      "price": 43325,
+      "credit": 1
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/zP10kxx/Rectangle-2-6.png",
+      "description": "Discover the world of machine learning with TensorFlow.",
+      "title": "Machine Learning with TensorFlow",
+      "price": 5462,
+      "credit": 2
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/pJv3rMH/Rectangle-2.png",
+      "description": "Build RESTful APIs with Node.js and Express.",
+      "title": "Node.js API Development",
+      "price": 9753,
+      "credit": 2
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/vkt23L5/Rectangle-2-4.png",
+      "description": "Learn how to work with databases using SQL and MySQL.",
+      "title": "SQL and MySQL Fundamentals",
+      "price": 7823,
+      "credit": 2
+    },
+    {
+      "id": 11,
+      "cover": "https://i.ibb.co/XtJZ5h6/Rectangle-2-3.png",
+      "description": "Dive into front-end web development with React.js.",
+      "title": "React.js for Beginners",
+      "price": 9854,
+      "credit":1
+    },
+    {
+      "id": 12,
+      "cover": "https://i.ibb.co/1Jf9R6s/Rectangle-3.png",
+      "description": "Explore the world of cloud computing with AWS.",
+      "title": "AWS Cloud Computing Essentials",
+      "price": 6433,
+      "credit": 1
+    },
+    {
+      "id": 13,
+      "cover": "https://i.ibb.co/zH2nZ8r/Rectangle-3-1.png",
+      "description": "Build responsive and mobile-friendly websites with CSS3.",
+      "title": "Responsive Web Design with CSS3",
+      "price": 8765,
+      "credit": 2
+    },
+    {
+      "id": 14,
+      "cover": "https://i.ibb.co/vkt23L5/Rectangle-2-4.png",
+      "description": "Learn the basics of game development with Unity.",
+      "title": "Introduction to Unity Game Development",
+      "price": 7643,
+      "credit": 2
+    },
+    {
+      "id": 15,
+      "cover": "https://i.ibb.co/zP10kxx/Rectangle-2-6.png",
+      "description": "Explore the world of data science with R programming.",
+      "title": "Data Science with R",
+      "price": 5346,
+      "credit": 2
+    },
+    {
+      "id": 16,
+      "cover": "https://i.ibb.co/dctyMW6/Rectangle-2-5.png",
+      "description": "Master version control with Git and GitHub.",
+      "title": "Git and GitHub Mastery",
+      "price": 734,
+      "credit": 1
+    },
+    {
+      "id": 17,
+      "cover": "https://i.ibb.co/vkt23L5/Rectangle-2-4.png",
+      "description": "Discover the art of ethical hacking and cybersecurity.",
+      "title": "Ethical Hacking 101",
+      "price": 9876,
+      "credit": 3
+    },
+    {
+      "id": 18,
+      "cover": "https://i.ibb.co/vkt23L5/Rectangle-2-4.png",
+      "description": "Build dynamic web applications with Ruby on Rails.",
+      "title": "Ruby on Rails Web Development",
+      "price": 1243,
+      "credit": 1
+    },
+    {
+      "id": 19,
+      "cover": "https://i.ibb.co/dctyMW6/Rectangle-2-5.png",
+      "description": "Learn Android app development with Kotlin.",
+      "title": "Android App Development with Kotlin",
+      "price": 532,
+      "credit": 2
+    },
+    {
+      "id": 20,
+      "cover": "https://i.ibb.co/vkt23L5/Rectangle-2-4.png",
+      "description": "Explore the world of quantum computing with Qiskit.",
+      "title": "Quantum Computing with Qiskit",
+      "price": 4534,
+      "credit": 4
+    }
+  ]
+  
