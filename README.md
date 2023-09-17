@@ -1,9 +1,12 @@
-# React + Vite
+##Features:
+1. I use fake or  self created data that this data make faster to load data in projrcts.
+2. this project can handle sideffect errors.
+3. it's a so easier and any user understandable .
+4. this projects will show how many credits you use or add and how many remains.
+5. it's will show your adding carts or products totals.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# my-course-roster-ForhadHossain0" 
+## now how to i managed my projects : 
+I managed state using the useState and useEffect hooks in React. useState allowed me to declare 
+and update state variables, while useEffect enabled me to handle side effects and react to changes
+in state. This combination helped me efficiently manage and synchronize the state of my components.
